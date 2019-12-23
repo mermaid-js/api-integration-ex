@@ -1,4 +1,4 @@
-# This repos demonstrattes how to integrate mermaid to your site using the API
+# This repo demonstrates how to integrate mermaid to your site using the API
 
 # Get started
 
