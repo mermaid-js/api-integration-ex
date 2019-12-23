@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Example of how to integrate via the mermaidApi",
   "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/html/index.html"
+  },
   "repository": "https://github.com/mermaid-js/api-example-ex",
   "author": "Knut Sveidqvist",
   "license": "MIT",

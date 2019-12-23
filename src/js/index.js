@@ -1,6 +1,6 @@
 // import another component
 import mermaid from 'mermaid';
-// import { mermaidAPI } from 'mermaid';
+// import { mermaidAPI }   from 'mermaid';
 import classes from '../css/main.css';
 
 const { mermaidAPI } = mermaid;
