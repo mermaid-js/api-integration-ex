@@ -1,0 +1,13 @@
+{
+  "name": "api-integration-ex",
+  "version": "1.0.0",
+  "description": "Example of how to integrate via the mermaidApi",
+  "main": "index.js",
+  "repository": "https://github.com/mermaid-js/api-example-ex",
+  "author": "Knut Sveidqvist",
+  "license": "MIT",
+  "dependencies": {
+    "mermaid": "^8.4.4",
+    "parcel-bundler": "^1.12.4"
+  }
+}
